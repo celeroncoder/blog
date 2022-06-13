@@ -1,4 +1,18 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: My New Hugo Site
+title: celeronCoder's Blog
 theme: "PaperMod"
+paginate: 10
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  defaultTheme: dark
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/CeleronCoder"
+    - name: github
+      url: "https://github.com/celeronCoder"
