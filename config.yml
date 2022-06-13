@@ -9,10 +9,32 @@ minify:
   minifyOutput: true
 
 params:
-  defaultTheme: dark
+  env: production
+  title: celeronCoder
+  description: celeronCoder's Personal Blog
+  keywords: [Blog, PaperMod, Hugo]
+  defaultTheme: auto
+  disableThemeToggle: false
+  DateFormat: "January 2, 2004"
+
+  ShowReadingTime: true
+  ShowCodeCopyButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  showtoc: true
+
+  homeInfoParams:
+    Title: "Hi there 👋"
+    Content: "having fun with tech"
+
+  assets:
+    favicon: "https://raw.githubusercontent.com/gist/celeronCoder/bf4dbcc95f3919e2b374dc60b0c01391/raw/efe5fe3f1cfad1dd862fdbefd760f1815c6d2a1a/favicon.svg"
 
   socialIcons:
     - name: twitter
       url: "https://twitter.com/CeleronCoder"
     - name: github
       url: "https://github.com/celeronCoder"
+
