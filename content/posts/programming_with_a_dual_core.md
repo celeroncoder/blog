@@ -2,6 +2,15 @@
 title: "Programming with a Dual-Core..."
 date: 2020-12-13T18:30:00.000Z
 draft: false
+description: List of Web Text Editors and IDEs with my suggestions.
+
+cover:
+    image: "https://res.cloudinary.com/practicaldev/image/fetch/s--k7i7tYWO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/tdnowz3y1zyhdd1dhmw5.jpg"
+    alt: "motherboard cover image"
+
+tags: ["first", "archive", "ide", "editor"]
+
+ShowToc: false
 ---
 
 > This was originaly posted [here](https://dev.to/celeroncoder/programming-with-a-dual-core-38mm) on dev.to.
@@ -15,7 +24,7 @@ Got amazed by those _ultra-wide, vertical, dual or triple monitors with a MacBoo
 If you are someone **with an outdated PC or a Chromebook here are some awesome lightweight replacement for heavy IDE or dev tools that can run on your browser only.**
 
 Well, for a browser I would recommend **Firefox** over Chrome 'cuz it doesn't crash that frequent, are lightweight and provide decent dev-tools or you can use Microsoft Edge which is a chromium-based browser and is pretty similar to chrome and will give less strain to your PC.
-![firefox](https://res.cloudinary.com/practicaldev/image/fetch/s--hqXVXrdn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/gwnypogpiua)
+![Firefox](https://www.mozilla.org/media/img/firefox/home/master/browsers-mr1.1014465d3b4a.jpg)
 
 ## IDE
 An IDE (Integrated Development Environment) is a comparable heavy software like video or photo editing software which uses high CPU, memory and disk usage.
