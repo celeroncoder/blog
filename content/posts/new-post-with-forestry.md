@@ -2,7 +2,6 @@
 ShowToc = true
 date = 2022-06-15T18:30:00Z
 description = "A new post with forestry"
-draft = true
 image = ""
 tags = ["tag", "new"]
 title = "New Post with Forestry"
