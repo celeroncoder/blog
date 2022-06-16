@@ -21,12 +21,6 @@ fields:
   - type: text
     name: alt
     label: alt
-- name: image
-  type: file
-  config:
-    maxSize: 64
-  label: Image
-  description: Featured Image in the Blog
 - type: list
   name: tags
   label: tags
