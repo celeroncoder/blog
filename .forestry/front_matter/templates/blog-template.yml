@@ -27,5 +27,3 @@ fields:
 - type: boolean
   name: ShowToc
   label: ShowToc
-pages:
-- content/posts/new-post-with-forestry.md
