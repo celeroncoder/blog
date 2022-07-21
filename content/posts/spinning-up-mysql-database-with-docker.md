@@ -46,11 +46,15 @@ You can pass in the following _Environment Variables_ when starting the containe
 * Get into the container using \`docker exec -it <container_name> bash\`.
 * Login into the MySQL shell using
 
-      mysql -u root -p
-* `this will prompt to`enter the passw`ord which we set`up bef`ore, in our case` it was _temp123_.
-* After logging into the shell run the following SQL query to change the password
+    mysql -u root -p
 
-  ALTER USER 'root'@'localhost' IDENTIFIED BY '<new_password>';
-* References:
-  * View [this](https://www.instapaper.com/read/1523582174/20140126 "Instapaper Read") article on Instapaper with notes.
-  * View the original one [here](https://ostechnix.com/setup-mysql-with-docker-in-linux "Original Article").
+This will prompt you to enter the password which we set up before, in our case it was _temp123_.
+
+After logging into the shell run the following SQL query to change the password
+
+    ALTER USER 'root'@'localhost' IDENTIFIED BY '<new_password>';
+
+**References**:
+
+* View [this](https://www.instapaper.com/read/1523582174/20140126 "Instapaper Read") article on Instapaper with notes.
+* View the original one [here](https://ostechnix.com/setup-mysql-with-docker-in-linux "Original Article").
