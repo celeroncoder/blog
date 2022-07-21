@@ -50,7 +50,7 @@ You can pass in the following _Environment Variables_ when starting the containe
 
 This will prompt you to enter the password which we set up before, in our case it was _temp123_.
 
-After logging into the shell run the following SQL query to change the password
+After logging into the shell run the following SQL query to change the password:
 
     ALTER USER 'root'@'localhost' IDENTIFIED BY '<new_password>';
 
