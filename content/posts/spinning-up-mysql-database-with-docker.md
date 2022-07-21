@@ -13,13 +13,13 @@ This is the best way to start since you don't have to install MySQL locally and 
 
 **To get started follow these steps:**
 
-* Pull the latest image, 
+* Pull the latest image,
 
-      docker pull MySQL:latest
+      docker pull mysql:latest
   * You don't have to do it manually it will download automatically if not installed when we spin up the container.
 * Start the container using the following command
 
-    docker run --name <container_name> -p 3306:3306 -v mysql_volume:/var/lib/mysql/ -d -e "MYSQL_ROOT_PASSWORD=<root_password>" mysql
+  docker run --name <container_name> -p 3306:3306 -v mysql_volume:/var/lib/mysql/ -d -e "MYSQL_ROOT_PASSWORD=<root_password>" mysql
 
 This will create a new container with the name *<container_name>_, with the_ **mysql:latest** image and publish the ports **3306** to the local environment to use the instance outside of the container.
 
@@ -37,21 +37,20 @@ You can pass in the following _Environment Variables_ when starting the containe
 * **MYSQL_ALLOW_EMPTY_PASSWORD** Blank or Null password will be set. You have to set **MYSQL_ALLOW_EMPTY_PASSWORD=1**.
 * **MYSQL_RANDOM_ROOT_PASSWORD**  random password will be generated when the container is started. You have to set **MYSQL_RANDOM_ROOT_PASSWORD=1** to generate the random password.
 
-> **Don't pass in the permanent password in production**, as the password will be visible in the shell history, which we obviously don't want. 
+> **Don't pass in the permanent password in production**, as the password will be visible in the shell history, which we obviously don't want.
 >
 > A possible solution is that we pass in a temporary password like _temp123_ and then change it afterwards.
 
-**We can change the root password as follows:** 
+**We can change the root password as follows:**
 
 * Get into the container using \`docker exec -it <container_name> bash\`.
-* Login into the MySQL shell using 
+* Login into the MySQL shell using
 
       mysql -u root -p
-* `this will prompt to `enter the passw`ord which we set`up bef`ore, in our case` it was _temp123_.
+* `this will prompt to`enter the passw`ord which we set`up bef`ore, in our case` it was _temp123_.
 * After logging into the shell run the following SQL query to change the password
 
-    ALTER USER 'root'@'localhost' IDENTIFIED BY '<new_password>';
-
+  ALTER USER 'root'@'localhost' IDENTIFIED BY '<new_password>';
 * References:
   * View [this](https://www.instapaper.com/read/1523582174/20140126 "Instapaper Read") article on Instapaper with notes.
   * View the original one [here](https://ostechnix.com/setup-mysql-with-docker-in-linux "Original Article").
