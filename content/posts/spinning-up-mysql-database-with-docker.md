@@ -19,9 +19,9 @@ This is the best way to start since you don't have to install MySQL locally and 
   * You don't have to do it manually it will download automatically if not installed when we spin up the container.
 * Start the container using the following command
 
-  docker run --name <container_name> -p 3306:3306 -v mysql_volume:/var/lib/mysql/ -d -e "MYSQL_ROOT_PASSWORD=<root_password>" mysql
+      docker run --name <container_name> -p 3306:3306 -v mysql_volume:/var/lib/mysql/ -d -e "MYSQL_ROOT_PASSWORD=<root_password>" mysql
 
-This will create a new container with the name *<container_name>_, with the_ **mysql:latest** image and publish the ports **3306** to the local environment to use the instance outside of the container.
+This will create a new container with the name _<container_name>, with the_ **mysql:latest** image and publish the ports **3306** to the local environment to use the instance outside of the container.
 
 This also sets up the volume for the container to persist the database's data, so that it doesn't reset on restarts of the host system or the container.
 
