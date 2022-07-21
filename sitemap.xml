@@ -2,10 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://celeroncoder.github.io/blog/tags/archive/</loc>
-    <lastmod>2020-12-13T18:30:00+00:00</lastmod>
-  </url><url>
     <loc>https://celeroncoder.github.io/blog/</loc>
+    <lastmod>2022-07-21T18:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://celeroncoder.github.io/blog/tags/docker/</loc>
+    <lastmod>2022-07-21T18:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://celeroncoder.github.io/blog/tags/getting_started/</loc>
+    <lastmod>2022-07-21T18:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://celeroncoder.github.io/blog/tags/mysql/</loc>
+    <lastmod>2022-07-21T18:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://celeroncoder.github.io/blog/posts/</loc>
+    <lastmod>2022-07-21T18:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://celeroncoder.github.io/blog/posts/spinning-up-mysql-database-with-docker/</loc>
+    <lastmod>2022-07-21T18:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://celeroncoder.github.io/blog/tags/</loc>
+    <lastmod>2022-07-21T18:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://celeroncoder.github.io/blog/tags/archive/</loc>
     <lastmod>2020-12-13T18:30:00+00:00</lastmod>
   </url><url>
     <loc>https://celeroncoder.github.io/blog/tags/editor/</loc>
@@ -17,13 +35,7 @@
     <loc>https://celeroncoder.github.io/blog/tags/ide/</loc>
     <lastmod>2020-12-13T18:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://celeroncoder.github.io/blog/posts/</loc>
-    <lastmod>2020-12-13T18:30:00+00:00</lastmod>
-  </url><url>
     <loc>https://celeroncoder.github.io/blog/posts/programming_with_a_dual_core/</loc>
-    <lastmod>2020-12-13T18:30:00+00:00</lastmod>
-  </url><url>
-    <loc>https://celeroncoder.github.io/blog/tags/</loc>
     <lastmod>2020-12-13T18:30:00+00:00</lastmod>
   </url><url>
     <loc>https://celeroncoder.github.io/blog/categories/</loc>

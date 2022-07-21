@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>celeronCoder&#39;s Blog</title>
-    <link>https://celeroncoder.github.io/blog/</link>
-    <description>Recent content on celeronCoder&#39;s Blog</description>
+    <title>getting_started on celeronCoder&#39;s Blog</title>
+    <link>https://celeroncoder.github.io/blog/tags/getting_started/</link>
+    <description>Recent content in getting_started on celeronCoder&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Jul 2022 18:30:00 +0000</lastBuildDate><atom:link href="https://celeroncoder.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Jul 2022 18:30:00 +0000</lastBuildDate><atom:link href="https://celeroncoder.github.io/blog/tags/getting_started/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spinning up MySQL Database with Docker</title>
       <link>https://celeroncoder.github.io/blog/posts/spinning-up-mysql-database-with-docker/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://celeroncoder.github.io/blog/posts/spinning-up-mysql-database-with-docker/</guid>
       <description>Spinning up a MySQL Database with Docker, this is how I personally go about it and some other useful refrences.</description>
-    </item>
-    
-    <item>
-      <title>Programming with a Dual-Core...</title>
-      <link>https://celeroncoder.github.io/blog/posts/programming_with_a_dual_core/</link>
-      <pubDate>Sun, 13 Dec 2020 18:30:00 +0000</pubDate>
-      
-      <guid>https://celeroncoder.github.io/blog/posts/programming_with_a_dual_core/</guid>
-      <description>List of Web Text Editors and IDEs with my suggestions.</description>
     </item>
     
   </channel>
