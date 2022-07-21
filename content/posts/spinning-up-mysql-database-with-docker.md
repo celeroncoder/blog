@@ -2,7 +2,6 @@
 ShowToc = true
 date = 2022-07-21T18:30:00Z
 description = "Spinning up a MySQL Database with Docker, this is how I personally go about it and some other useful refrences."
-draft = true
 tags = ["getting_started", "docker", "mysql"]
 title = "Spinning up MySQL Database with Docker"
 [cover]
