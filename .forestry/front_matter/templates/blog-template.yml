@@ -27,3 +27,5 @@ fields:
 - type: boolean
   name: ShowToc
   label: ShowToc
+pages:
+- content/posts/spinning-up-mysql-database-with-docker.md
