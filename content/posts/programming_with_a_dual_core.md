@@ -1,6 +1,6 @@
 +++
 ShowToc = true
-date = 2020-12-13T18:30:00.000Z
+date = 2020-12-13T18:30:00Z
 title = "Programming with a Dual-Core..."
 tags = ["first", "archive", "ide", "editor"]
 description = "List of Web Text Editors and IDEs with my suggestions."
