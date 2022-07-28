@@ -6,7 +6,34 @@
     <description>Recent content in Tags on celeronCoder&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Jul 2022 18:30:00 +0000</lastBuildDate><atom:link href="https://celeroncoder.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Jul 2022 18:30:00 +0000</lastBuildDate><atom:link href="https://celeroncoder.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>nextjs</title>
+      <link>https://celeroncoder.github.io/blog/tags/nextjs/</link>
+      <pubDate>Wed, 27 Jul 2022 18:30:00 +0000</pubDate>
+      
+      <guid>https://celeroncoder.github.io/blog/tags/nextjs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prisma</title>
+      <link>https://celeroncoder.github.io/blog/tags/prisma/</link>
+      <pubDate>Wed, 27 Jul 2022 18:30:00 +0000</pubDate>
+      
+      <guid>https://celeroncoder.github.io/blog/tags/prisma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tRPC</title>
+      <link>https://celeroncoder.github.io/blog/tags/trpc/</link>
+      <pubDate>Wed, 27 Jul 2022 18:30:00 +0000</pubDate>
+      
+      <guid>https://celeroncoder.github.io/blog/tags/trpc/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>docker</title>
       <link>https://celeroncoder.github.io/blog/tags/docker/</link>
