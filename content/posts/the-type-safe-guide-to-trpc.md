@@ -6,7 +6,7 @@ tags = ["nextjs", "prisma", "tRPC"]
 title = "The type-safe guide to tRPC"
 [cover]
 alt = "trpcBlogCover"
-image = "/uploads/trpcblog.png"
+image = "/static/uploads/trpcblog.png"
 
 +++
 Check out the original article \[here\]().
