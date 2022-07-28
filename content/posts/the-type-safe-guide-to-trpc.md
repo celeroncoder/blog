@@ -9,32 +9,40 @@ alt = "trpcBlogCover"
 image = "/blog/uploads/trpcblog.png"
 
 +++
-
 This isn't the best guide to use tRPC, probably there are better ways to do this, like [create-t3-app](https://create.t3.gg/), the best I could find.
 
 Most of what is here is from the [tRPC's documentation](https://trpc.io/docs), you can refer them, super helpful and easy to read.
 
 **What is tRPC?**
+
+
 tRPC is a typescript library, so to say, that makes it easy to create type-safe APIs without schema or any sort of code generation.
 
 **Where to use?**
-Create the *typed server* and then import its type and use it with an adaptor in the client side.
+
+
+Create the _typed server_ and then import its type and use it with an adaptor in the client side.
 
 **How does it implement type-safety?**
+
+
 tRPC encourages using the [zod](https://www.npmjs.com/package/zod), a library for type validation of input and output arguments.
 
 **Is tRPC only limited to React?**
+
+
 tRPC's core API is built to work with any client, but right now it supports **React** and can be used with **React Meta Frameworks** like **NextJS** or **SolidJS**, since it uses **React Query** under the hood to talk to the server and maintaining type-safety across the data-pipeline or data-flow.
 
 For now, it has first-party adaptors for **React**, **NextJS**, **Express**, **Fastify**, **SolidJS**, and some community packages like for [**tRPC for SveleteKit**](https://github.com/icflorescu/trpc-sveltekit)
 
 **What are its features?**
-- Lightweight, a tiny bundle size for such a powerful library.
-- Type-safe to the max!
-- Support subscriptions with **websockets** library.
-- Request batching
-	- Request can be made simultaneously and then are batched into one.
-- Strong User base and helpful Community
+
+* Lightweight, a tiny bundle size for such a powerful library.
+* Type-safe to the max!
+* Support subscriptions with **websockets** library.
+* Request batching
+  * Request can be made simultaneously and then are batched into one.
+* Strong User base and helpful Community
 
 ## tRPC x NextJS
 
@@ -71,6 +79,7 @@ This is the router where the actual business logic will reside, create a `backen
 
 If using prisma otherwise this is optional,
 `src/server/utils/prisma.ts`
+
 ```ts
 import { PrismaClient } from "@prisma/client";
 
@@ -86,6 +95,7 @@ if (process.env.NODE_ENV != 'production') global.prisma = prisma;
 ```
 
 `src/server/router/context.ts`
+
 ```ts
 import * as trpc from "@trpc/server";
 import * as trpcNext from "@trpc/server/adapters/next";
@@ -110,10 +120,11 @@ export const createRouter = () => trpc.router<Context>();
 ```
 
 > **Using Contexts**
-> 
-> We can create router without using the above context by just using `trpc.router()` that will work just fine. But if you are using some external API like in the above case we are using prisma, it's better to use pass in repeatedly used instances to context to avoid having multiple ones for every query we use that in, that may *affect our performance and can also be vulnerable*. 
+>
+> We can create router without using the above context by just using `trpc.router()` that will work just fine. But if you are using some external API like in the above case we are using prisma, it's better to use pass in repeatedly used instances to context to avoid having multiple ones for every query we use that in, that may _affect our performance and can also be vulnerable_.
 
 `src/server/router/index.ts`
+
 ```ts
 import {createRouter} from "./contex";
 import {exampleRouter} from "./example.router";
@@ -134,6 +145,7 @@ export type AppRouter = typeof appRouter;
 > The exact filename is necessary to make this work!
 
 `src/pages/api/trpc/[trpc].ts`
+
 ```ts
 import * as trpcNext from "@trpc/server/adapters/next";
 import { appRouter, AppRouter } from "@/backend/router";
@@ -151,6 +163,7 @@ export default trpcNext.createNextApiHandler({
 These are the React hooks necessary to maintain the type-safety, this will give you React Query like hooks to fetch the API.
 
 `src/utils/trpc.ts`
+
 ```ts
 import { createReactQueryHooks } from "@trpc/react";
 import type { AppRouter } from "@/backend/router";
@@ -170,6 +183,7 @@ export type InferQueryOutput<TRouteKey extends TQuery> = inferProcedureOutput<
 Now that tRPC is set up, this is how we use it inside react components.
 
 `src/pages/index.tsx`
+
 ```tsx
 // we use the instance we created that has our router type definitions
 import { trpc } from "@/utils/trpc";
@@ -180,9 +194,8 @@ export default SomePage() {
 }
 ```
 
-
-
 ### SSG Helpers
+
 SSG Helpers are helper functions that can be used to pre-fetch queries on the server upon request to reduce loading time.
 
 They are to be used when working with SSR and SSG or ISR.
@@ -224,6 +237,7 @@ export default function PostPage(props: InferGetServerSidePropsType<typeof getSe
 ```
 
 **References**
-- Check out [this](https://www.youtube.com/watch?v=I5tWWYBdlJo) amazing talk by [Theo](https://twitter.com/t3dotgg) on tRPC vs GraphQL and their risks.
-- Check out Theo on YouTube or any other social media platform, he has a lot of content about tRPC
-- Follow [Alex](https://twitter.com/alexdotjs) aka Katt, the creator of tRPC.
+
+* Check out [this](https://www.youtube.com/watch?v=I5tWWYBdlJo) amazing talk by [Theo](https://twitter.com/t3dotgg) on tRPC vs GraphQL and their risks.
+* Check out Theo on YouTube or any other social media platform, he has a lot of content about tRPC
+* Follow [Alex](https://twitter.com/alexdotjs) aka Katt, the creator of tRPC.
