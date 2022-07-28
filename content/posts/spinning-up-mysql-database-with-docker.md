@@ -6,9 +6,10 @@ tags = ["getting_started", "docker", "mysql"]
 title = "Spinning up MySQL Database with Docker"
 [cover]
 alt = "Spinning up MySQL with Docker"
-image = "https://github.com/celeronCoder/blog/blob/master/static/uploads/mysql_docker_blog_cover.png?raw=true"
+image = "/blog/uploads/mysql_docker_blog_cover.png"
 
 +++
+
 This is the best way to start since you don't have to install MySQL locally and configure it and run into like thousands of issues and in the end not being able to make it, docker makes it much easier for me or probably for you also to spin up a MySQL database in minutes.
 
 **To get started follow these steps:**

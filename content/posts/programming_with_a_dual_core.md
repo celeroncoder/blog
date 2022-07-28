@@ -1,17 +1,13 @@
----
-title: "Programming with a Dual-Core..."
-date: 2020-12-13T18:30:00.000Z
-draft: false
-description: List of Web Text Editors and IDEs with my suggestions.
-
-cover:
-    image: "https://res.cloudinary.com/practicaldev/image/fetch/s--k7i7tYWO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/tdnowz3y1zyhdd1dhmw5.jpg"
-    alt: "motherboard cover image"
-
-tags: ["first", "archive", "ide", "editor"]
-
-ShowToc: false
----
++++
+ShowToc = true
+date = 2020-12-13T18:30:00.000Z
+title = "Programming with a Dual-Core..."
+tags = ["first", "archive", "ide", "editor"]
+description = "List of Web Text Editors and IDEs with my suggestions."
+[cover]
+alt = "Programming with a Dual-Core..."
+image = "/blog/uploads/programming_with_dual_core.webp"
++++
 
 > This was originaly posted [here](https://dev.to/celeroncoder/programming-with-a-dual-core-38mm) on dev.to.
 
