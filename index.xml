@@ -6,7 +6,16 @@
     <description>Recent content on celeronCoder&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Jul 2022 18:30:00 +0000</lastBuildDate><atom:link href="https://celeroncoder.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Aug 2022 18:30:00 +0000</lastBuildDate><atom:link href="https://celeroncoder.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>what made me a developer? 🧐</title>
+      <link>https://celeroncoder.github.io/blog/posts/what-made-me-a-developer/</link>
+      <pubDate>Wed, 17 Aug 2022 18:30:00 +0000</pubDate>
+      
+      <guid>https://celeroncoder.github.io/blog/posts/what-made-me-a-developer/</guid>
+      <description>A beginners guide to getting started in tech from a beginner.</description>
+    </item>
+    
     <item>
       <title>The type-safe guide to tRPC</title>
       <link>https://celeroncoder.github.io/blog/posts/the-type-safe-guide-to-trpc/</link>
