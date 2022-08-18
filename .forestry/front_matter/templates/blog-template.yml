@@ -30,3 +30,4 @@ fields:
 pages:
 - content/posts/spinning-up-mysql-database-with-docker.md
 - content/posts/the-type-safe-guide-to-trpc.md
+- content/posts/what-made-me-a-developer.md
