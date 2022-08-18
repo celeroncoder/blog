@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://celeroncoder.github.io/blog/tags/#hasnode/</loc>
+    <lastmod>2022-08-17T18:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://celeroncoder.github.io/blog/tags/#journey/</loc>
+    <lastmod>2022-08-17T18:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://celeroncoder.github.io/blog/tags/#personal/</loc>
+    <lastmod>2022-08-17T18:30:00+00:00</lastmod>
+  </url><url>
     <loc>https://celeroncoder.github.io/blog/</loc>
-    <lastmod>2022-07-27T18:30:00+00:00</lastmod>
+    <lastmod>2022-08-17T18:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://celeroncoder.github.io/blog/posts/</loc>
+    <lastmod>2022-08-17T18:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://celeroncoder.github.io/blog/tags/</loc>
+    <lastmod>2022-08-17T18:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://celeroncoder.github.io/blog/posts/what-made-me-a-developer/</loc>
+    <lastmod>2022-08-17T18:30:00+00:00</lastmod>
   </url><url>
     <loc>https://celeroncoder.github.io/blog/tags/nextjs/</loc>
     <lastmod>2022-07-27T18:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://celeroncoder.github.io/blog/posts/</loc>
-    <lastmod>2022-07-27T18:30:00+00:00</lastmod>
-  </url><url>
     <loc>https://celeroncoder.github.io/blog/tags/prisma/</loc>
-    <lastmod>2022-07-27T18:30:00+00:00</lastmod>
-  </url><url>
-    <loc>https://celeroncoder.github.io/blog/tags/</loc>
     <lastmod>2022-07-27T18:30:00+00:00</lastmod>
   </url><url>
     <loc>https://celeroncoder.github.io/blog/posts/the-type-safe-guide-to-trpc/</loc>
