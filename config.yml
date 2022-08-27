@@ -37,4 +37,6 @@ params:
       url: "https://twitter.com/CeleronCoder"
     - name: github
       url: "https://github.com/celeronCoder"
+    - name: rss
+      url: "https://celeroncoder.github.io/index.xml"
 
