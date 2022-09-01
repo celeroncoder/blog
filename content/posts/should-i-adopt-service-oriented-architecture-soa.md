@@ -6,8 +6,8 @@ draft = true
 tags = ["guide", "soa", "architecture"]
 title = "Should I adopt Service Oriented Architecture (SOA)?"
 [cover]
-alt = ""
-image = ""
+alt = "SOA Blog Cover"
+image = "/blog/uploads/soa-blog-cover.png"
 
 +++
 The main principle of Service-Oriented Architecture is to **segregate the concerns to move the business logic and the vulnerable data layer off to the API routes directly. In this, we isolate different parts of the logic in such a way that makes sense.**
