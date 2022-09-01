@@ -6,14 +6,14 @@ tags = ["guide", "soa", "architecture"]
 title = "Should I adopt Service Oriented Architecture (SOA)?"
 [cover]
 alt = "SOA Blog Cover"
-image = "/blog/uploads/soa-blog-cover.png"
+image = "/blog/uploads/soa-blog-cover.webp"
 
 +++
 The main principle of Service-Oriented Architecture is to **segregate the concerns to move the business logic and the vulnerable data layer off to the API routes directly. In this, we isolate different parts of the logic in such a way that makes sense.**
 
 In this three layer or tier system we usually divide the logic of a route or a function of the application into Controller, Service, and Data Access Layer.
 
-![](/blog/uploads/soa_architecture.png)
+![](/blog/uploads/soa_architecture.webp)
 
 ### Controller (Routes)
 
