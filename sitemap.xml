@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://celeroncoder.github.io/blog/tags/architecture/</loc>
+    <lastmod>2022-08-31T18:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://celeroncoder.github.io/blog/</loc>
+    <lastmod>2022-08-31T18:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://celeroncoder.github.io/blog/tags/guide/</loc>
+    <lastmod>2022-08-31T18:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://celeroncoder.github.io/blog/posts/</loc>
+    <lastmod>2022-08-31T18:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://celeroncoder.github.io/blog/posts/should-i-adopt-service-oriented-architecture-soa/</loc>
+    <lastmod>2022-08-31T18:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://celeroncoder.github.io/blog/tags/soa/</loc>
+    <lastmod>2022-08-31T18:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://celeroncoder.github.io/blog/tags/</loc>
+    <lastmod>2022-08-31T18:30:00+00:00</lastmod>
+  </url><url>
     <loc>https://celeroncoder.github.io/blog/tags/#hasnode/</loc>
     <lastmod>2022-08-17T18:30:00+00:00</lastmod>
   </url><url>
@@ -9,15 +30,6 @@
     <lastmod>2022-08-17T18:30:00+00:00</lastmod>
   </url><url>
     <loc>https://celeroncoder.github.io/blog/tags/#personal/</loc>
-    <lastmod>2022-08-17T18:30:00+00:00</lastmod>
-  </url><url>
-    <loc>https://celeroncoder.github.io/blog/</loc>
-    <lastmod>2022-08-17T18:30:00+00:00</lastmod>
-  </url><url>
-    <loc>https://celeroncoder.github.io/blog/posts/</loc>
-    <lastmod>2022-08-17T18:30:00+00:00</lastmod>
-  </url><url>
-    <loc>https://celeroncoder.github.io/blog/tags/</loc>
     <lastmod>2022-08-17T18:30:00+00:00</lastmod>
   </url><url>
     <loc>https://celeroncoder.github.io/blog/posts/what-made-me-a-developer/</loc>
