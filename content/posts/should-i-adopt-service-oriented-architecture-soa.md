@@ -14,6 +14,8 @@ The main principle of Service-Oriented Architecture is to **segregate the concer
 
 In this three layer or tier system we usually divide the logic of a route or a function of the application into Controller, Service, and Data Access Layer.
 
+![](/blog/uploads/soa_architecture.png)
+
 ### Controller (Routes)
 
 Its purpose is to deal with requests from the user to the application and deal with the different routes that have different functions. It also modifies the incoming data from the user to be able to consume it within our business logic.
