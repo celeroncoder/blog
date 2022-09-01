@@ -1,14 +1,14 @@
 +++
 ShowToc = true
 date = 2020-12-13T18:30:00Z
-title = "Programming with a Dual-Core..."
-tags = ["first", "archive", "ide", "editor"]
 description = "List of Web Text Editors and IDEs with my suggestions."
+tags = ["first", "archive", "ide", "editor"]
+title = "Programming with a Dual-Core..."
 [cover]
 alt = "Programming with a Dual-Core..."
 image = "/blog/uploads/programming_with_dual_core.webp"
-+++
 
++++
 > This was originaly posted [here](https://dev.to/celeroncoder/programming-with-a-dual-core-38mm) on dev.to.
 
 When we search on YouTube about [programming desk setups](https://www.youtube.com/results?search_query=programming+desk-setups)
