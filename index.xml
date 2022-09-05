@@ -6,7 +6,16 @@
     <description>Recent content on celeronCoder&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Aug 2022 18:30:00 +0000</lastBuildDate><atom:link href="https://celeroncoder.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Sep 2022 18:30:00 +0000</lastBuildDate><atom:link href="https://celeroncoder.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>REST with Rust</title>
+      <link>https://celeroncoder.github.io/blog/posts/rest-with-rust/</link>
+      <pubDate>Sun, 04 Sep 2022 18:30:00 +0000</pubDate>
+      
+      <guid>https://celeroncoder.github.io/blog/posts/rest-with-rust/</guid>
+      <description>Calling Rest APIs with Rust</description>
+    </item>
+    
     <item>
       <title>Should I adopt Service Oriented Architecture (SOA)?</title>
       <link>https://celeroncoder.github.io/blog/posts/should-i-adopt-service-oriented-architecture-soa/</link>

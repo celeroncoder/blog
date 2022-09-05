@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>rest_api on celeronCoder&#39;s Blog</title>
+    <link>https://celeroncoder.github.io/blog/tags/rest_api/</link>
+    <description>Recent content in rest_api on celeronCoder&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Sep 2022 18:30:00 +0000</lastBuildDate><atom:link href="https://celeroncoder.github.io/blog/tags/rest_api/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>REST with Rust</title>
+      <link>https://celeroncoder.github.io/blog/posts/rest-with-rust/</link>
+      <pubDate>Sun, 04 Sep 2022 18:30:00 +0000</pubDate>
+      
+      <guid>https://celeroncoder.github.io/blog/posts/rest-with-rust/</guid>
+      <description>Calling Rest APIs with Rust</description>
+    </item>
+    
+  </channel>
+</rss>

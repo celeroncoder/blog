@@ -6,22 +6,40 @@
     <description>Recent content in Tags on celeronCoder&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Aug 2022 18:30:00 +0000</lastBuildDate><atom:link href="https://celeroncoder.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Sep 2022 18:30:00 +0000</lastBuildDate><atom:link href="https://celeroncoder.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>guide</title>
+      <link>https://celeroncoder.github.io/blog/tags/guide/</link>
+      <pubDate>Sun, 04 Sep 2022 18:30:00 +0000</pubDate>
+      
+      <guid>https://celeroncoder.github.io/blog/tags/guide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rest_api</title>
+      <link>https://celeroncoder.github.io/blog/tags/rest_api/</link>
+      <pubDate>Sun, 04 Sep 2022 18:30:00 +0000</pubDate>
+      
+      <guid>https://celeroncoder.github.io/blog/tags/rest_api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rust</title>
+      <link>https://celeroncoder.github.io/blog/tags/rust/</link>
+      <pubDate>Sun, 04 Sep 2022 18:30:00 +0000</pubDate>
+      
+      <guid>https://celeroncoder.github.io/blog/tags/rust/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>architecture</title>
       <link>https://celeroncoder.github.io/blog/tags/architecture/</link>
       <pubDate>Wed, 31 Aug 2022 18:30:00 +0000</pubDate>
       
       <guid>https://celeroncoder.github.io/blog/tags/architecture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>guide</title>
-      <link>https://celeroncoder.github.io/blog/tags/guide/</link>
-      <pubDate>Wed, 31 Aug 2022 18:30:00 +0000</pubDate>
-      
-      <guid>https://celeroncoder.github.io/blog/tags/guide/</guid>
       <description></description>
     </item>
     
