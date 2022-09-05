@@ -28,6 +28,7 @@ fields:
   name: ShowToc
   label: ShowToc
 pages:
+- content/posts/rest-with-rust.md
 - content/posts/should-i-adopt-service-oriented-architecture-soa.md
 - content/posts/spinning-up-mysql-database-with-docker.md
 - content/posts/the-type-safe-guide-to-trpc.md
