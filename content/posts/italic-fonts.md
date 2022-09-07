@@ -24,20 +24,19 @@ Open the JSON settings from the settings tab in the terminal
 And add the following settings into that JSON file
 
     "profiles": {
-        "list": [
-          {
-            "font": {
-              "face": "VictorMono NF",
-              "weight": "bold",
-              "axes": {
-                "ital": 1 // this is what does the magic
-              }
-            },
-    			},
-    			...
-    		]
+      "list": [
+        {
+          "font": {
+            "face": "VictorMono NF",
+            "weight": "bold",
+            "axes": {
+            	"ital": 1 // this is what does the magic
+            }
+          },
+        },
+        ...
+      ]
     }
-    
 
 ### Gnome-Terminal
 
@@ -82,7 +81,6 @@ To make fonts italic in `VSCode` irrespective of your theme put the following se
           }
         ]
       },
-    
 
 The above settings does make the following things italic
 
@@ -92,3 +90,12 @@ The above settings does make the following things italic
 * memory modifiers and class keyword
 
 Also, it exempts the custom italic style to certain things that VS Code has default italic config for.
+
+Example Code with Italic Fonts
+
+![](/blog/uploads/italic_font_code.webp)
+
+### Credits
+
+* [Github Page](https://github.com/kosimst/FiraFlott)
+* [StackOverflow Question](https://stackoverflow.com/questions/41320848/how-do-i-get-visual-studio-code-to-display-italic-fonts-in-formatted-code)
