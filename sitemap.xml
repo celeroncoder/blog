@@ -3,12 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://celeroncoder.github.io/blog/</loc>
-    <lastmod>2022-09-04T18:30:00+00:00</lastmod>
+    <lastmod>2022-09-06T18:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://celeroncoder.github.io/blog/tags/guide/</loc>
-    <lastmod>2022-09-04T18:30:00+00:00</lastmod>
+    <loc>https://celeroncoder.github.io/blog/tags/config/</loc>
+    <lastmod>2022-09-06T18:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://celeroncoder.github.io/blog/tags/font/</loc>
+    <lastmod>2022-09-06T18:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://celeroncoder.github.io/blog/posts/italic-fonts/</loc>
+    <lastmod>2022-09-06T18:30:00+00:00</lastmod>
   </url><url>
     <loc>https://celeroncoder.github.io/blog/posts/</loc>
+    <lastmod>2022-09-06T18:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://celeroncoder.github.io/blog/tags/</loc>
+    <lastmod>2022-09-06T18:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://celeroncoder.github.io/blog/tags/terminal/</loc>
+    <lastmod>2022-09-06T18:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://celeroncoder.github.io/blog/tags/tips/</loc>
+    <lastmod>2022-09-06T18:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://celeroncoder.github.io/blog/tags/vscode/</loc>
+    <lastmod>2022-09-06T18:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://celeroncoder.github.io/blog/tags/guide/</loc>
     <lastmod>2022-09-04T18:30:00+00:00</lastmod>
   </url><url>
     <loc>https://celeroncoder.github.io/blog/posts/rest-with-rust/</loc>
@@ -18,9 +39,6 @@
     <lastmod>2022-09-04T18:30:00+00:00</lastmod>
   </url><url>
     <loc>https://celeroncoder.github.io/blog/tags/rust/</loc>
-    <lastmod>2022-09-04T18:30:00+00:00</lastmod>
-  </url><url>
-    <loc>https://celeroncoder.github.io/blog/tags/</loc>
     <lastmod>2022-09-04T18:30:00+00:00</lastmod>
   </url><url>
     <loc>https://celeroncoder.github.io/blog/tags/architecture/</loc>
