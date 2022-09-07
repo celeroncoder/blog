@@ -28,6 +28,7 @@ fields:
   name: ShowToc
   label: ShowToc
 pages:
+- content/posts/italic-fonts.md
 - content/posts/rest-with-rust.md
 - content/posts/should-i-adopt-service-oriented-architecture-soa.md
 - content/posts/spinning-up-mysql-database-with-docker.md
