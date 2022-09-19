@@ -22,9 +22,9 @@ Here's a program with a main function that call some other functions and that fu
 
 ![](/blog/uploads/function_in_stack.webp)
 
-When the function, completes execution the functions gets off the stack and the program returns to the previous program flow, aka to the previous function that called that function.![](/blog/uploads/stack_get_off_1.png)![](/blog/uploads/stack_get_off_2.png)
+When the function, completes execution the functions gets off the stack and the program returns to the previous program flow, aka to the previous function that called that function.
 
-Now, there is nothing left in the stack, even the main function that is loaded by default, gets off the stack, the program finishes execution.![](/blog/uploads/empty_stack.png)
+Now, there is nothing left in the stack, even the main function that is loaded by default, gets off the stack, the program finishes execution.
 
 **Takeaways:**
 
