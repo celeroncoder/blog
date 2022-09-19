@@ -3,7 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://celeroncoder.github.io/blog/</loc>
-    <lastmod>2022-09-06T18:30:00+00:00</lastmod>
+    <lastmod>2022-09-18T18:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://celeroncoder.github.io/blog/tags/dsa/</loc>
+    <lastmod>2022-09-18T18:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://celeroncoder.github.io/blog/tags/functions/</loc>
+    <lastmod>2022-09-18T18:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://celeroncoder.github.io/blog/posts/functions-in-memory-stack/</loc>
+    <lastmod>2022-09-18T18:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://celeroncoder.github.io/blog/tags/memory/</loc>
+    <lastmod>2022-09-18T18:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://celeroncoder.github.io/blog/posts/</loc>
+    <lastmod>2022-09-18T18:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://celeroncoder.github.io/blog/tags/stack/</loc>
+    <lastmod>2022-09-18T18:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://celeroncoder.github.io/blog/tags/</loc>
+    <lastmod>2022-09-18T18:30:00+00:00</lastmod>
   </url><url>
     <loc>https://celeroncoder.github.io/blog/tags/config/</loc>
     <lastmod>2022-09-06T18:30:00+00:00</lastmod>
@@ -12,12 +33,6 @@
     <lastmod>2022-09-06T18:30:00+00:00</lastmod>
   </url><url>
     <loc>https://celeroncoder.github.io/blog/posts/italic-fonts/</loc>
-    <lastmod>2022-09-06T18:30:00+00:00</lastmod>
-  </url><url>
-    <loc>https://celeroncoder.github.io/blog/posts/</loc>
-    <lastmod>2022-09-06T18:30:00+00:00</lastmod>
-  </url><url>
-    <loc>https://celeroncoder.github.io/blog/tags/</loc>
     <lastmod>2022-09-06T18:30:00+00:00</lastmod>
   </url><url>
     <loc>https://celeroncoder.github.io/blog/tags/terminal/</loc>

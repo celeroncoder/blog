@@ -6,7 +6,16 @@
     <description>Recent content on celeronCoder&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Sep 2022 18:30:00 +0000</lastBuildDate><atom:link href="https://celeroncoder.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Sep 2022 18:30:00 +0000</lastBuildDate><atom:link href="https://celeroncoder.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Functions in Memory (Stack)</title>
+      <link>https://celeroncoder.github.io/blog/posts/functions-in-memory-stack/</link>
+      <pubDate>Sun, 18 Sep 2022 18:30:00 +0000</pubDate>
+      
+      <guid>https://celeroncoder.github.io/blog/posts/functions-in-memory-stack/</guid>
+      <description>Explanation of how function behave in stack.</description>
+    </item>
+    
     <item>
       <title>Italic Fonts</title>
       <link>https://celeroncoder.github.io/blog/posts/italic-fonts/</link>
