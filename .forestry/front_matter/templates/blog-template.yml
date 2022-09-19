@@ -28,6 +28,7 @@ fields:
   name: ShowToc
   label: ShowToc
 pages:
+- content/posts/functions-in-memory-stack.md
 - content/posts/italic-fonts.md
 - content/posts/rest-with-rust.md
 - content/posts/should-i-adopt-service-oriented-architecture-soa.md
