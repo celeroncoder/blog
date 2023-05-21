@@ -6,13 +6,12 @@ tags = ["webdev", "winston", "logging", "custom"]
 title = "Winston Transports??"
 [cover]
 alt = "winston transport blog post cover"
-image = "/blog/uploads/Winston Transport Cover.png"
+image = "/blog/uploads/winston-transport-cover.png"
 +++
 
 ### Brief Introduction to what is `winston`?
 
 > Winston is a node package that provides a simple and universal logging library. It supports **multiple transports**, such as file, console, and syslog. Winston is easy to use and can be **customized** to meet your specific needs.
-> 
 
 Did you see the words `multiple transports` and `customized` in the above definition of `winston` (that I asked Google Bard to write)? Yeah, `winston` is probable the most sophisticated and customizable logger out there.
 
@@ -21,34 +20,25 @@ Did you see the words `multiple transports` and `customized` in the above defini
 So we know that `winston` supports multiple transports, but what is a transport anyway?
 
 > In `winston`, transport is essentially a storage device for your logs. Each instance of a `winston` logger can have multiple transports configured at different levels.
-> 
 
 So transport is basically like where you want to store your logs.
 
 There are some most basic ones like:
 
 - **The Console**
-    
-    ```tsx
-    import winston from "winston"
-    
-    export const logger = winston.createLogger(
-    	{ 
-    		transports: [
-    			new winston.transports.Console()
-    		],
-    	}
-    )
-    ```
-    
+  ```tsx
+  import winston from "winston";
+
+  export const logger = winston.createLogger({
+    transports: [new winston.transports.Console()],
+  });
+  ```
 - **Files**
-    
-    ```tsx
-    ...
-    new winston.transports.File({ filename: "logs/all.log" })
-    ...
-    ```
-    
+  ```tsx
+  ...
+  new winston.transports.File({ filename: "logs/all.log" })
+  ...
+  ```
 
 Console and file are like the most basic ones, Console basically prints your logs to the console and file one just stores your log in the defined file. You can go crazy with the options and do a lot more stuff, like storing logs of only a specific `level`, let’s say `error` or something.
 
@@ -62,7 +52,7 @@ To upload your logs to them, you’ll need custom transport. `winston` give you 
 
 So basically custom transports are to upload your logs to some sort of storage or maybe do something else with it, like creating alerts and stuff.
 
-Here’s how you create basic custom transport for `winston`: 
+Here’s how you create basic custom transport for `winston`:
 
 ```tsx
 // my-transport.ts
