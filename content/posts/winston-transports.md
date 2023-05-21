@@ -6,7 +6,7 @@ tags = ["webdev", "winston", "logging", "custom"]
 title = "Winston Transports??"
 [cover]
 alt = "winston transport blog post cover"
-image = "/blog/uploads/winston-transport-cover.png"
+image = "/blog/uploads/Winston Transport Cover.png"
 +++
 
 ### Brief Introduction to what is `winston`?
