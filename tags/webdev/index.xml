@@ -6,11 +6,11 @@
     <description>Recent content in webdev on celeronCoder&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Sep 2022 18:30:00 +0000</lastBuildDate><atom:link href="https://celeroncoder.github.io/blog/tags/webdev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 May 2023 19:51:13 +0000</lastBuildDate><atom:link href="https://celeroncoder.github.io/blog/tags/webdev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Winston Transports??</title>
       <link>https://celeroncoder.github.io/blog/posts/winston-transports/</link>
-      <pubDate>Tue, 06 Sep 2022 18:30:00 +0000</pubDate>
+      <pubDate>Sun, 21 May 2023 19:51:13 +0000</pubDate>
       
       <guid>https://celeroncoder.github.io/blog/posts/winston-transports/</guid>
       <description>Brief intro to winston transports and how to create custom ones.</description>

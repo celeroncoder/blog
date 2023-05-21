@@ -6,7 +6,43 @@
     <description>Recent content in Tags on celeronCoder&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Sep 2022 18:30:00 +0000</lastBuildDate><atom:link href="https://celeroncoder.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 May 2023 19:51:13 +0000</lastBuildDate><atom:link href="https://celeroncoder.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>custom</title>
+      <link>https://celeroncoder.github.io/blog/tags/custom/</link>
+      <pubDate>Sun, 21 May 2023 19:51:13 +0000</pubDate>
+      
+      <guid>https://celeroncoder.github.io/blog/tags/custom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>logging</title>
+      <link>https://celeroncoder.github.io/blog/tags/logging/</link>
+      <pubDate>Sun, 21 May 2023 19:51:13 +0000</pubDate>
+      
+      <guid>https://celeroncoder.github.io/blog/tags/logging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>webdev</title>
+      <link>https://celeroncoder.github.io/blog/tags/webdev/</link>
+      <pubDate>Sun, 21 May 2023 19:51:13 +0000</pubDate>
+      
+      <guid>https://celeroncoder.github.io/blog/tags/webdev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>winston</title>
+      <link>https://celeroncoder.github.io/blog/tags/winston/</link>
+      <pubDate>Sun, 21 May 2023 19:51:13 +0000</pubDate>
+      
+      <guid>https://celeroncoder.github.io/blog/tags/winston/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>dsa</title>
       <link>https://celeroncoder.github.io/blog/tags/dsa/</link>
@@ -53,29 +89,11 @@
     </item>
     
     <item>
-      <title>custom</title>
-      <link>https://celeroncoder.github.io/blog/tags/custom/</link>
-      <pubDate>Tue, 06 Sep 2022 18:30:00 +0000</pubDate>
-      
-      <guid>https://celeroncoder.github.io/blog/tags/custom/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>font</title>
       <link>https://celeroncoder.github.io/blog/tags/font/</link>
       <pubDate>Tue, 06 Sep 2022 18:30:00 +0000</pubDate>
       
       <guid>https://celeroncoder.github.io/blog/tags/font/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>logging</title>
-      <link>https://celeroncoder.github.io/blog/tags/logging/</link>
-      <pubDate>Tue, 06 Sep 2022 18:30:00 +0000</pubDate>
-      
-      <guid>https://celeroncoder.github.io/blog/tags/logging/</guid>
       <description></description>
     </item>
     
@@ -103,24 +121,6 @@
       <pubDate>Tue, 06 Sep 2022 18:30:00 +0000</pubDate>
       
       <guid>https://celeroncoder.github.io/blog/tags/vscode/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>webdev</title>
-      <link>https://celeroncoder.github.io/blog/tags/webdev/</link>
-      <pubDate>Tue, 06 Sep 2022 18:30:00 +0000</pubDate>
-      
-      <guid>https://celeroncoder.github.io/blog/tags/webdev/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>winston</title>
-      <link>https://celeroncoder.github.io/blog/tags/winston/</link>
-      <pubDate>Tue, 06 Sep 2022 18:30:00 +0000</pubDate>
-      
-      <guid>https://celeroncoder.github.io/blog/tags/winston/</guid>
       <description></description>
     </item>
     
