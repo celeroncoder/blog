@@ -1,6 +1,6 @@
 +++
 ShowToc = true
-date = 2022-09-06T18:30:00Z
+date = 2023-05-21T19:51:13.848Z
 description = "Brief intro to winston transports and how to create custom ones."
 tags = ["webdev", "winston", "logging", "custom"]
 title = "Winston Transports??"
@@ -26,6 +26,7 @@ So transport is basically like where you want to store your logs.
 There are some most basic ones like:
 
 - **The Console**
+
   ```tsx
   import winston from "winston";
 
@@ -33,6 +34,7 @@ There are some most basic ones like:
     transports: [new winston.transports.Console()],
   });
   ```
+
 - **Files**
   ```tsx
   ...
